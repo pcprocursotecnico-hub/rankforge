@@ -1,0 +1,21 @@
+{
+  "version": "1.0.0",
+  "createdAt": "2026-04-03T01:00:18.160Z",
+  "lastUpdated": "2026-04-03T01:00:18.486Z",
+  "totalInvites": 0,
+  "members": {
+    "8325960203": {
+      "userId": 8325960203,
+      "firstName": "Pedro",
+      "username": "okke_ltda",
+      "inviteLink": "https://t.me/+mNkY9K6RBh85ZmYx",
+      "inviteCount": 0,
+      "invitedUsers": [],
+      "createdAt": "2026-04-03T01:00:18.160Z",
+      "lastInviteAt": null
+    }
+  },
+  "linkMap": {
+    "https://t.me/+mNkY9K6RBh85ZmYx": 8325960203
+  }
+}
